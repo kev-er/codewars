@@ -15,3 +15,10 @@ function sumArrayValues(arr) {
 }
 
 console.log(sumArrayValues(['10', '20', 30, '40'])); // Output: 100
+
+
+// I could have used x.map 
+
+// function sumMix(x){
+//   return x.map(a => +a).reduce((a, b) => a + b);
+// }
