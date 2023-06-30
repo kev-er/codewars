@@ -6,10 +6,10 @@
 // Example
 
 
-sumMul(2, 9) ==> 2 + 4 + 6 + 8 = 20
-sumMul(3, 13) ==> 3 + 6 + 9 + 12 = 30
-sumMul(4, 123) ==> 4 + 8 + 12 + ... = 1860
-sumMul(4, -7) ==> "INVALID"
+// sumMul(2, 9) ==> 2 + 4 + 6 + 8 = 20
+// sumMul(3, 13) ==> 3 + 6 + 9 + 12 = 30
+// sumMul(4, 123) ==> 4 + 8 + 12 + ... = 1860
+// sumMul(4, -7) ==> "INVALID"
 
 // function takes n and m as parameters and returns the sum of numbers if neither of them are 0 it will come up with "INVALID"
 
