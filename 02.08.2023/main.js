@@ -14,6 +14,12 @@ function noSpace(x) {
   return x.replace(/ /g, "");
 }
 
+// Another way this could have been solved
+
+function noSpace(x) {
+  return x.split(" ").join("");
+}
+
 // Test Sample
 const chai = require("chai");
 const assert = chai.assert;
